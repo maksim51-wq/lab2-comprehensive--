@@ -349,14 +349,26 @@ goto menu
 ```
 ## 4. Скриншоты работы каждого модуля в отдельности ##
 ### 4.1. Скриншот chapter1.bat ###
+
 <img width="443" height="266" alt="screenshot-chapter1" src="https://github.com/user-attachments/assets/9593a656-2a1f-46aa-ac2c-5fe3ed7c257a" />
+
 ### 4.2. Скриншот chapter2.bat ###
+
 <img width="582" height="733" alt="screenshot-chapter2" src="https://github.com/user-attachments/assets/ed3dccd2-9d73-425c-b753-a7845e26e204" />
+
 ### 4.3. Скриншот chapter3.bat ###
+
 <img width="542" height="487" alt="screenshot-chapter3" src="https://github.com/user-attachments/assets/5c04cf48-5c2f-427d-a497-e1e14334b4b1" />
+
 ## 5. Скриншот работы главного файла lab_system.bat (главное меню) ##
 
+<img width="392" height="179" alt="screenshot-labsystem-menu" src="https://github.com/user-attachments/assets/dc6bdbfc-044e-4256-99f0-b4bb0aafd3bb" />
+
 ## 6. Скриншот прохождения всех трёх модулей последовательно (пункт 4 главного меню) ##
+
+<img width="584" height="1020" alt="screenshot-labsystem-1" src="https://github.com/user-attachments/assets/85195e1c-08f1-4706-b165-dbe5866f689c" />
+
+<img width="548" height="731" alt="screenshot-labsystem-2" src="https://github.com/user-attachments/assets/5bdb3514-91d7-451c-95a3-47fd0eadc80d" />
 
 ## 7. Описание того, что получилось при запуске интегрированной системы ##
 ### 7.1. Какие диалоги и вопросы задавались в каждом модуле ###
