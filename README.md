@@ -360,6 +360,10 @@ goto menu
 
 <img width="542" height="487" alt="screenshot-chapter3" src="https://github.com/user-attachments/assets/5c04cf48-5c2f-427d-a497-e1e14334b4b1" />
 
+### 4.4. Скриншот report.txt ###
+
+<img width="468" height="112" alt="image" src="https://github.com/user-attachments/assets/727187db-2677-4f27-b784-cacc054e5701" />
+
 ## 5. Скриншот работы главного файла lab_system.bat (главное меню) ##
 
 <img width="392" height="179" alt="screenshot-labsystem-menu" src="https://github.com/user-attachments/assets/dc6bdbfc-044e-4256-99f0-b4bb0aafd3bb" />
